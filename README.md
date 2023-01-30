@@ -8,10 +8,10 @@
   - if this file is encrypted, decrypt it by clicking on 'Manage Encryption' on SDA.
   
 # 3. Fill all of this information into the config.json file in /steam-bot-version/config.json
+- the ownerID is only used if you want to send chat commands to the bot from a personal account, or if you want it to accept all of your trades.
     "accountName" : "",
     "password" : "",
     "sharedSecret" : "",
     "identitySecret": "",
     "ownerID": ""
-#
-    - the ownerID is only used if you want to send chat commands to the bot from a personal account, or if you want it to accept all of your trades.
+    
