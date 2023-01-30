@@ -9,6 +9,8 @@
   
 # 3. Fill all of this information into the config.json file in /steam-bot-version/config.json
 - the ownerID is only used if you want to send chat commands to the bot from a personal account, or if you want it to accept all of your trades.
+
+
     "accountName" : "",
     "password" : "",
     "sharedSecret" : "",
