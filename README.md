@@ -1,7 +1,7 @@
 # steam-bot-1.0.0.3
 
 # 1. you must have your account verified with Steam Desktop Authenticator (SDA).
-  - a version of this is included in the download, but an updated version can likely be found at <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator/releases" target="_blank">Google</a>.
+  - a version of this is included in the download, but an updated version can likely be found at [SDA Versions](https://github.com/Jessecar96/SteamDesktopAuthenticator/releases)
 
 # 2. you must not encrypt the data in SDA until you have retrieved the sharedSecret and identitySecret keys.
   - retreive them from SDA-version/maFiles/'yoursteamID'.maFile
