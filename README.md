@@ -7,7 +7,7 @@
   - retreive them from SDA-version/maFiles/'yoursteamID'.maFile
   - if this file is encrypted, decrypt it by clicking on 'Mange Encryption' on SDA.
   
- # 3. Fill all of this information into the config.json file in /steam-bot-version/config.json
+# 3. Fill all of this information into the config.json file in /steam-bot-version/config.json
     "accountName" : "",
     "password" : "",
     "sharedSecret" : "",
