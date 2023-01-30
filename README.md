@@ -1,4 +1,4 @@
-# steam-bot-1.0.0.3
+# steam-bot-1.0.0.3 Install and setup
 
 # 1. you must have your account verified with Steam Desktop Authenticator (SDA).
   - a version of this is included in the download, but an updated version can likely be found at [SDA Versions](https://github.com/Jessecar96/SteamDesktopAuthenticator/releases)
