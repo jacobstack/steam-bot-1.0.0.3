@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "steam-totp": "^2.1.2",
+    "steam-tradeoffer-manager": "^1.2.1",
+    "steam-user": "^4.27.0",
+    "steamcommunity": "^2.6.0"
+  }
+}

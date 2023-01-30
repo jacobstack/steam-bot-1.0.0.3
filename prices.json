@@ -1,0 +1,22 @@
+{
+    "Scrap Metal":
+    {
+        "buyPrice": 1,
+        "sellPrice": 1
+    },
+    "Reclaimed Metal":
+    {
+        "buyPrice": 3,
+        "sellPrice": 3
+    },
+    "Refined Metal":
+    {
+        "buyPrice": 9,
+        "sellPrice": 9
+    },
+    "The Conscientious Objector":
+    {
+        "buyPrice": 5,
+        "sellPrice": 6
+    }
+}
