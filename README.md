@@ -13,4 +13,5 @@
     "sharedSecret" : "",
     "identitySecret": "",
     "ownerID": ""
+#
     - the ownerID is only used if you want to send chat commands to the bot from a personal account, or if you want it to accept all of your trades.
